@@ -1,4 +1,4 @@
-lines = open("1.txt", "r").readlines()
+lines = open("1.1.input", "r").readlines()
 
 sum = 0
 for line in lines:
