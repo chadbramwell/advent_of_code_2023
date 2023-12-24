@@ -10,7 +10,6 @@ for line in lines:
                 value = int(rune)
             else:
                 last = int(rune)
-    #print(first, last)
     if last == -1:
         value = value * 10 + value
     else:
